@@ -1,4 +1,7 @@
-export const host = "http://localhost:5000";
+// export const host = "http://localhost:5000";
+
+//online deploy
+export const host = "https://bookstore-claw.onrender.com";
 
 //book route
 export const newbookRoute = `${host}/api/v1/books`;
